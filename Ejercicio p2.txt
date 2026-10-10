@@ -1,0 +1,14 @@
+﻿'Project3.exe' (Win32): 'C:\Users\alfre\source\repos\Project3\x64\Debug\Project3.exe' cargado. Símbolos cargados.
+'Project3.exe' (Win32): 'C:\Windows\System32\ntdll.dll' cargado. Carga de símbolos deshabilitada por el parámetro Incluir/Excluir.
+'Project3.exe' (Win32): 'C:\Windows\System32\kernel32.dll' cargado. Carga de símbolos deshabilitada por el parámetro Incluir/Excluir.
+'Project3.exe' (Win32): 'C:\Windows\System32\KernelBase.dll' cargado. Carga de símbolos deshabilitada por el parámetro Incluir/Excluir.
+'Project3.exe' (Win32): 'C:\Windows\System32\msvcp140d.dll' cargado. Carga de símbolos deshabilitada por el parámetro Incluir/Excluir.
+'Project3.exe' (Win32): 'C:\Windows\System32\vcruntime140d.dll' cargado. Carga de símbolos deshabilitada por el parámetro Incluir/Excluir.
+'Project3.exe' (Win32): 'C:\Windows\System32\vcruntime140_1d.dll' cargado. Carga de símbolos deshabilitada por el parámetro Incluir/Excluir.
+'Project3.exe' (Win32): 'C:\Windows\System32\ucrtbased.dll' cargado. Carga de símbolos deshabilitada por el parámetro Incluir/Excluir.
+El subproceso 18908 terminó con código 0 (0x0).
+'Project3.exe' (Win32): 'C:\Windows\System32\kernel.appcore.dll' cargado. Carga de símbolos deshabilitada por el parámetro Incluir/Excluir.
+'Project3.exe' (Win32): 'C:\Windows\System32\msvcrt.dll' cargado. Carga de símbolos deshabilitada por el parámetro Incluir/Excluir.
+El subproceso 14160 terminó con código 0 (0x0).
+El subproceso 30976 terminó con código 0 (0x0).
+El programa '[11480] Project3.exe' terminó con código 0 (0x0).
